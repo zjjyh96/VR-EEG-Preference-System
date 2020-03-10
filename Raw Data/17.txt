@@ -1,0 +1,647 @@
+[12/6/2019 1:44:42 PM][341.3364]Phase 1 Calibration Start.
+[12/6/2019 1:44:47 PM][346.3268]View: Fixation; Condition: FullDisplay; Finished
+[12/6/2019 1:44:47 PM][346.3268]Calibration Finished.
+-----------------------------------------------------
+[12/6/2019 1:44:47 PM][346.3268]Phase 1 Start.
+[12/6/2019 1:44:50 PM][349.3333]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:44:55 PM][354.1594]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:44:55 PM][354.1594]Rate for product 0 is 3
+[12/6/2019 1:44:58 PM][357.1541]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:45:03 PM][362.1548]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:45:03 PM][362.1548]Rate for product 1 is 0
+[12/6/2019 1:45:06 PM][365.1619]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:45:09 PM][368.4902]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:45:09 PM][368.4902]Rate for product 2 is 4
+[12/6/2019 1:45:12 PM][371.4838]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:45:17 PM][376.4876]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:45:17 PM][376.4876]Rate for product 3 is 2
+[12/6/2019 1:45:20 PM][379.4912]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:45:24 PM][382.8304]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:45:24 PM][382.8304]Rate for product 4 is 5
+[12/6/2019 1:45:27 PM][385.8247]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:45:30 PM][389.043]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:45:30 PM][389.043]Rate for product 5 is 5
+[12/6/2019 1:45:33 PM][392.0364]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:45:35 PM][394.7053]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:45:35 PM][394.7053]Rate for product 6 is 3
+[12/6/2019 1:45:38 PM][397.7005]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:45:41 PM][400.4034]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:45:41 PM][400.4034]Rate for product 7 is 2
+[12/6/2019 1:45:44 PM][403.3977]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:45:46 PM][405.6653]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:45:46 PM][405.6653]Rate for product 8 is 3
+[12/6/2019 1:45:49 PM][408.6584]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:45:52 PM][411.5849]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:45:52 PM][411.5849]Rate for product 9 is 5
+[12/6/2019 1:45:55 PM][414.58]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:45:57 PM][416.2231]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:45:57 PM][416.2231]Rate for product 10 is 4
+[12/6/2019 1:46:00 PM][419.2157]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:46:02 PM][421.5953]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:46:02 PM][421.5953]Rate for product 11 is 5
+[12/6/2019 1:46:05 PM][424.5913]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:46:07 PM][426.1509]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:46:07 PM][426.1509]Rate for product 12 is 4
+[12/6/2019 1:46:10 PM][429.1462]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:46:11 PM][430.2529]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:46:11 PM][430.2529]Rate for product 13 is 2
+[12/6/2019 1:46:14 PM][433.2456]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:46:19 PM][438.0709]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:46:19 PM][438.0709]Rate for product 14 is 4
+[12/6/2019 1:46:22 PM][441.0644]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:46:24 PM][442.8404]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:46:24 PM][442.8404]Rate for product 15 is 3
+[12/6/2019 1:46:27 PM][445.8346]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:46:28 PM][447.2543]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:46:28 PM][447.2543]Rate for product 16 is 3
+[12/6/2019 1:46:31 PM][450.2459]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:46:32 PM][451.3634]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:46:32 PM][451.3634]Rate for product 17 is 3
+[12/6/2019 1:46:35 PM][454.3569]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:46:36 PM][455.4741]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:46:36 PM][455.4741]Rate for product 18 is 2
+[12/6/2019 1:46:39 PM][458.4675]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:46:41 PM][459.9083]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:46:41 PM][459.9083]Rate for product 19 is 4
+[12/6/2019 1:46:44 PM][462.9025]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:46:45 PM][464.7112]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:46:45 PM][464.7112]Rate for product 20 is 4
+[12/6/2019 1:46:48 PM][467.7059]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:46:50 PM][469.181]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:46:50 PM][469.181]Rate for product 21 is 3
+[12/6/2019 1:46:53 PM][472.174]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:46:54 PM][473.3576]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:46:54 PM][473.3576]Rate for product 22 is 4
+[12/6/2019 1:46:57 PM][476.3521]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:46:59 PM][477.9287]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:46:59 PM][477.9287]Rate for product 23 is 5
+[12/6/2019 1:47:02 PM][480.919]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:47:03 PM][482.2426]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:47:03 PM][482.2426]Rate for product 24 is 5
+[12/6/2019 1:47:06 PM][485.2336]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:47:07 PM][486.5511]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:47:07 PM][486.5511]Rate for product 25 is 5
+[12/6/2019 1:47:10 PM][489.545]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:47:12 PM][490.8824]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:47:12 PM][490.8824]Rate for product 26 is 3
+[12/6/2019 1:47:15 PM][493.8821]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:47:17 PM][496.0504]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:47:17 PM][496.0504]Rate for product 27 is 2
+[12/6/2019 1:47:20 PM][499.0373]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:47:21 PM][500.4244]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:47:21 PM][500.4244]Rate for product 28 is 3
+[12/6/2019 1:47:24 PM][503.4175]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:47:27 PM][505.9241]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:47:27 PM][505.9241]Rate for product 29 is 5
+[12/6/2019 1:47:30 PM][508.914]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:47:31 PM][510.3088]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:47:31 PM][510.3088]Rate for product 30 is 5
+[12/6/2019 1:47:34 PM][513.3037]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:47:35 PM][514.7445]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:47:35 PM][514.7445]Rate for product 31 is 4
+[12/6/2019 1:47:38 PM][517.7408]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:47:40 PM][519.3351]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:47:40 PM][519.3351]Rate for product 32 is 3
+[12/6/2019 1:47:43 PM][522.3283]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:47:44 PM][523.6923]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:47:44 PM][523.6923]Rate for product 33 is 5
+[12/6/2019 1:47:47 PM][526.6846]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:47:49 PM][528.5073]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:47:49 PM][528.5073]Rate for product 34 is 3
+[12/6/2019 1:47:52 PM][531.4986]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:47:54 PM][533.3101]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:47:54 PM][533.3101]Rate for product 35 is 3
+[12/6/2019 1:47:57 PM][536.3038]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:47:58 PM][537.6759]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:47:58 PM][537.6759]Rate for product 36 is 5
+[12/6/2019 1:48:01 PM][540.6699]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:48:03 PM][542.2023]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:48:03 PM][542.2023]Rate for product 37 is 3
+[12/6/2019 1:48:06 PM][545.193]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:48:07 PM][546.4341]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:48:07 PM][546.4341]Rate for product 38 is 4
+[12/6/2019 1:48:10 PM][549.4281]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:48:11 PM][550.767]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:48:11 PM][550.767]Rate for product 39 is 4
+[12/6/2019 1:48:14 PM][553.7621]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:48:16 PM][555.2282]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:48:16 PM][555.2282]Rate for product 40 is 2
+[12/6/2019 1:48:19 PM][558.2191]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:48:21 PM][559.9185]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:48:21 PM][559.9185]Rate for product 41 is 4
+[12/6/2019 1:48:24 PM][562.9105]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:48:25 PM][564.709]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:48:25 PM][564.709]Rate for product 42 is 1
+[12/6/2019 1:48:28 PM][567.7075]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:48:30 PM][569.0424]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:48:30 PM][569.0424]Rate for product 43 is 4
+[12/6/2019 1:48:33 PM][572.0363]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:48:35 PM][574.2151]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:48:35 PM][574.2151]Rate for product 44 is 4
+[12/6/2019 1:48:38 PM][577.208]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:48:39 PM][578.3034]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:48:39 PM][578.3034]Rate for product 45 is 3
+[12/6/2019 1:48:42 PM][581.2992]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:48:44 PM][583.3538]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:48:44 PM][583.3538]Rate for product 46 is 4
+[12/6/2019 1:48:47 PM][586.3472]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:48:49 PM][588.5801]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:48:49 PM][588.5801]Rate for product 47 is 3
+[12/6/2019 1:48:52 PM][591.5734]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:48:54 PM][593.4644]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:48:54 PM][593.4644]Rate for product 48 is 4
+[12/6/2019 1:48:57 PM][596.4541]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:48:58 PM][597.4273]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:48:58 PM][597.4273]Rate for product 49 is 2
+[12/6/2019 1:49:01 PM][600.4227]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:49:03 PM][601.9071]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:49:03 PM][601.9071]Rate for product 50 is 3
+[12/6/2019 1:49:06 PM][604.9028]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:49:09 PM][608.6194]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:49:09 PM][608.6194]Rate for product 51 is 4
+[12/6/2019 1:49:12 PM][611.6134]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:49:14 PM][613.5815]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:49:14 PM][613.5815]Rate for product 52 is 3
+[12/6/2019 1:49:17 PM][616.5762]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:49:19 PM][617.8698]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:49:19 PM][617.8698]Rate for product 53 is 4
+[12/6/2019 1:49:22 PM][620.8662]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:49:23 PM][622.2701]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:49:23 PM][622.2701]Rate for product 54 is 4
+[12/6/2019 1:49:26 PM][625.2634]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:49:27 PM][626.5488]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:49:27 PM][626.5488]Rate for product 55 is 3
+[12/6/2019 1:49:30 PM][629.5416]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:49:32 PM][630.9962]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:49:32 PM][630.9962]Rate for product 56 is 2
+[12/6/2019 1:49:35 PM][633.9891]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:49:36 PM][635.0742]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:49:36 PM][635.0742]Rate for product 57 is 4
+[12/6/2019 1:49:39 PM][638.0638]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:49:41 PM][640.1566]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:49:41 PM][640.1566]Rate for product 58 is 4
+[12/6/2019 1:49:44 PM][643.1503]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:49:46 PM][645.0247]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:49:46 PM][645.0247]Rate for product 59 is 5
+[12/6/2019 1:49:49 PM][648.0186]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:49:50 PM][649.2495]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:49:50 PM][649.2495]Rate for product 60 is 5
+[12/6/2019 1:49:53 PM][652.2405]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:49:56 PM][655.5922]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:49:56 PM][655.5922]Rate for product 61 is 3
+[12/6/2019 1:49:59 PM][658.5858]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:50:00 PM][659.78]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:50:00 PM][659.78]Rate for product 62 is 4
+[12/6/2019 1:50:03 PM][662.7739]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:50:05 PM][664.5851]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:50:05 PM][664.5851]Rate for product 63 is 4
+[12/6/2019 1:50:08 PM][667.5774]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:50:10 PM][668.8496]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:50:10 PM][668.8496]Rate for product 64 is 4
+[12/6/2019 1:50:13 PM][671.8475]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:50:13 PM][672.7147]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:50:13 PM][672.7147]Rate for product 65 is 2
+[12/6/2019 1:50:16 PM][675.7127]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:50:18 PM][677.7311]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:50:18 PM][677.7311]Rate for product 66 is 3
+[12/6/2019 1:50:21 PM][680.7255]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:50:23 PM][682.6238]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:50:23 PM][682.6238]Rate for product 67 is 1
+[12/6/2019 1:50:26 PM][685.6174]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:50:29 PM][687.8962]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:50:29 PM][687.8962]Rate for product 68 is 5
+[12/6/2019 1:50:32 PM][690.8927]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:50:34 PM][693.1794]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:50:34 PM][693.1794]Rate for product 69 is 2
+[12/6/2019 1:50:37 PM][696.1766]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:50:39 PM][697.8384]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:50:39 PM][697.8384]Rate for product 70 is 4
+[12/6/2019 1:50:42 PM][700.8351]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:50:43 PM][702.1841]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:50:43 PM][702.1841]Rate for product 71 is 2
+[12/6/2019 1:50:46 PM][705.1761]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:50:48 PM][707.4106]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:50:48 PM][707.4106]Rate for product 72 is 5
+[12/6/2019 1:50:51 PM][710.4047]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:50:53 PM][712.1252]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:50:53 PM][712.1252]Rate for product 73 is 2
+[12/6/2019 1:50:56 PM][715.1221]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:50:58 PM][717.0872]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:50:58 PM][717.0872]Rate for product 74 is 5
+[12/6/2019 1:51:01 PM][720.0779]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:51:02 PM][721.7328]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:51:02 PM][721.7328]Rate for product 75 is 3
+[12/6/2019 1:51:05 PM][724.7285]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:51:08 PM][727.4517]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:51:08 PM][727.4517]Rate for product 76 is 3
+[12/6/2019 1:51:11 PM][730.4443]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:51:13 PM][732.3481]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:51:13 PM][732.3481]Rate for product 77 is 2
+[12/6/2019 1:51:16 PM][735.3394]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:51:17 PM][736.6693]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:51:17 PM][736.6693]Rate for product 78 is 4
+[12/6/2019 1:51:20 PM][739.6594]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:51:23 PM][741.8287]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:51:23 PM][741.8287]Rate for product 79 is 4
+[12/6/2019 1:51:26 PM][744.8248]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:51:27 PM][746.1626]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:51:27 PM][746.1626]Rate for product 80 is 3
+[12/6/2019 1:51:30 PM][749.1564]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:51:31 PM][750.4864]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:51:31 PM][750.4864]Rate for product 81 is 5
+[12/6/2019 1:51:34 PM][753.4777]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:51:36 PM][755.0208]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:51:36 PM][755.0208]Rate for product 82 is 5
+[12/6/2019 1:51:39 PM][758.0126]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:51:41 PM][760.2158]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:51:41 PM][760.2158]Rate for product 83 is 4
+[12/6/2019 1:51:44 PM][763.2067]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:51:46 PM][764.8707]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:51:46 PM][764.8707]Rate for product 84 is 2
+[12/6/2019 1:51:49 PM][767.8651]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:51:50 PM][769.1313]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:51:50 PM][769.1313]Rate for product 85 is 3
+[12/6/2019 1:51:53 PM][772.1246]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:51:54 PM][773.2968]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:51:54 PM][773.2968]Rate for product 86 is 5
+[12/6/2019 1:51:57 PM][776.2869]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:51:59 PM][778.3341]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:51:59 PM][778.3341]Rate for product 87 is 5
+[12/6/2019 1:52:02 PM][781.3293]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:52:04 PM][783.0914]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:52:04 PM][783.0914]Rate for product 88 is 4
+[12/6/2019 1:52:07 PM][786.0874]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:52:08 PM][787.7847]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:52:08 PM][787.7847]Rate for product 89 is 3
+[12/6/2019 1:52:08 PM][787.7847]End Phase 1
+-----------------------------------------------------
+[12/6/2019 1:55:08 PM][967.7823]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:55:08 PM][967.7823]End Breaking
+-----------------------------------------------------
+[12/6/2019 1:55:53 PM][1011.851]Phase 2 Calibration Start.
+[12/6/2019 1:55:58 PM][1016.853]View: Fixation; Condition: FullDisplay; Finished
+[12/6/2019 1:55:58 PM][1016.853]Calibration Finished.
+-----------------------------------------------------
+[12/6/2019 1:55:58 PM][1016.853]Phase 2 Start.
+[12/6/2019 1:56:01 PM][1019.861]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:56:04 PM][1022.865]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:56:08 PM][1026.873]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:56:13 PM][1031.882]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:56:13 PM][1031.882]Rate for product 0 is 4
+[12/6/2019 1:56:16 PM][1034.883]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:56:19 PM][1037.889]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:56:23 PM][1041.897]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:56:24 PM][1043.139]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:56:24 PM][1043.139]Rate for product 1 is 3
+[12/6/2019 1:56:27 PM][1046.13]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:56:30 PM][1049.137]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:56:34 PM][1053.139]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:56:37 PM][1056.733]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:56:37 PM][1056.733]Rate for product 2 is 4
+[12/6/2019 1:56:40 PM][1059.725]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:56:43 PM][1062.73]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:56:47 PM][1066.739]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:56:49 PM][1068.397]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:56:49 PM][1068.397]Rate for product 3 is 3
+[12/6/2019 1:56:52 PM][1071.388]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:56:55 PM][1074.396]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:56:59 PM][1078.396]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:57:01 PM][1079.977]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:57:01 PM][1079.977]Rate for product 4 is 4
+[12/6/2019 1:57:04 PM][1082.974]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:57:07 PM][1085.977]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:57:11 PM][1089.978]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:57:15 PM][1094.344]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:57:15 PM][1094.344]Rate for product 5 is 3
+[12/6/2019 1:57:18 PM][1097.335]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:57:21 PM][1100.342]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:57:25 PM][1104.353]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:57:27 PM][1106.172]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:57:27 PM][1106.172]Rate for product 6 is 2
+[12/6/2019 1:57:30 PM][1109.167]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:57:33 PM][1112.172]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:57:37 PM][1116.181]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:57:38 PM][1117.232]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:57:38 PM][1117.232]Rate for product 7 is 2
+[12/6/2019 1:57:41 PM][1120.224]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:57:44 PM][1123.229]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:57:48 PM][1127.229]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:57:50 PM][1129.228]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:57:50 PM][1129.228]Rate for product 8 is 2
+[12/6/2019 1:57:53 PM][1132.224]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:57:56 PM][1135.227]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:58:00 PM][1139.237]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:58:02 PM][1141.136]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:58:02 PM][1141.136]Rate for product 9 is 3
+[12/6/2019 1:58:05 PM][1144.129]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:58:08 PM][1147.137]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:58:12 PM][1151.143]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:58:14 PM][1153.477]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:58:14 PM][1153.477]Rate for product 10 is 3
+[12/6/2019 1:58:17 PM][1156.473]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:58:20 PM][1159.475]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:58:24 PM][1163.476]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:58:27 PM][1166.135]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:58:27 PM][1166.135]Rate for product 11 is 4
+[12/6/2019 1:58:30 PM][1169.128]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:58:33 PM][1172.133]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:58:37 PM][1176.144]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:58:38 PM][1177.383]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:58:38 PM][1177.383]Rate for product 12 is 5
+[12/6/2019 1:58:41 PM][1180.378]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:58:44 PM][1183.384]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:58:48 PM][1187.393]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:58:50 PM][1189.335]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:58:50 PM][1189.335]Rate for product 13 is 4
+[12/6/2019 1:58:53 PM][1192.329]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:58:56 PM][1195.336]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:59:00 PM][1199.344]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:59:02 PM][1201.276]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:59:02 PM][1201.276]Rate for product 14 is 4
+[12/6/2019 1:59:05 PM][1204.269]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:59:08 PM][1207.275]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:59:12 PM][1211.285]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:59:15 PM][1213.844]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:59:15 PM][1213.844]Rate for product 15 is 3
+[12/6/2019 1:59:18 PM][1216.836]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:59:21 PM][1219.843]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:59:25 PM][1223.843]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:59:26 PM][1225.775]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:59:26 PM][1225.775]Rate for product 16 is 5
+[12/6/2019 1:59:29 PM][1228.778]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:59:32 PM][1231.786]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:59:36 PM][1235.797]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:59:38 PM][1237.427]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:59:38 PM][1237.427]Rate for product 17 is 4
+[12/6/2019 1:59:41 PM][1240.42]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:59:44 PM][1243.423]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 1:59:48 PM][1247.433]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 1:59:50 PM][1248.955]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 1:59:50 PM][1248.955]Rate for product 18 is 4
+[12/6/2019 1:59:53 PM][1251.945]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 1:59:56 PM][1254.951]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 2:00:00 PM][1258.96]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 2:00:02 PM][1261.05]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 2:00:02 PM][1261.05]Rate for product 19 is 4
+[12/6/2019 2:00:05 PM][1264.045]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 2:00:08 PM][1267.047]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 2:00:12 PM][1271.058]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 2:00:14 PM][1272.824]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 2:00:14 PM][1272.824]Rate for product 20 is 2
+[12/6/2019 2:00:17 PM][1275.818]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 2:00:20 PM][1278.827]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 2:00:24 PM][1282.833]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 2:00:25 PM][1284.775]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 2:00:25 PM][1284.775]Rate for product 21 is 4
+[12/6/2019 2:00:28 PM][1287.768]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 2:00:31 PM][1290.778]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 2:00:35 PM][1294.783]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 2:00:37 PM][1296.493]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 2:00:37 PM][1296.493]Rate for product 22 is 4
+[12/6/2019 2:00:40 PM][1299.491]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 2:00:43 PM][1302.492]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 2:00:47 PM][1306.497]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 2:00:48 PM][1307.531]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 2:00:48 PM][1307.531]Rate for product 23 is 3
+[12/6/2019 2:00:51 PM][1310.533]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 2:00:54 PM][1313.54]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 2:00:58 PM][1317.55]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 2:00:59 PM][1318.755]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 2:00:59 PM][1318.755]Rate for product 24 is 4
+[12/6/2019 2:01:02 PM][1321.748]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 2:01:05 PM][1324.757]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 2:01:09 PM][1328.768]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 2:01:12 PM][1331.102]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 2:01:12 PM][1331.102]Rate for product 25 is 3
+[12/6/2019 2:01:15 PM][1334.092]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 2:01:18 PM][1337.1]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 2:01:22 PM][1341.108]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 2:01:23 PM][1342.583]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 2:01:23 PM][1342.583]Rate for product 26 is 4
+[12/6/2019 2:01:26 PM][1345.579]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 2:01:29 PM][1348.581]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 2:01:33 PM][1352.591]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 2:01:36 PM][1355.218]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 2:01:36 PM][1355.218]Rate for product 27 is 5
+[12/6/2019 2:01:39 PM][1358.213]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 2:01:42 PM][1361.222]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 2:01:46 PM][1365.225]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 2:01:48 PM][1366.967]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 2:01:48 PM][1366.967]Rate for product 28 is 2
+[12/6/2019 2:01:51 PM][1369.96]View: Description; Condition: FullDisplay; Finished
+[12/6/2019 2:01:54 PM][1372.966]View: Distribution; Condition: FullDisplay; Finished
+[12/6/2019 2:01:58 PM][1376.976]View: Review; Condition: FullDisplay; Finished
+[12/6/2019 2:02:00 PM][1379.288]View: Rating; Condition: FullDisplay; Finished
+[12/6/2019 2:02:00 PM][1379.288]Rate for product 29 is 3
+[12/6/2019 2:02:03 PM][1382.284]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:06 PM][1385.286]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:08 PM][1387.222]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:08 PM][1387.222]Rate for product 30 is 4
+[12/6/2019 2:02:11 PM][1390.211]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:14 PM][1393.221]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:15 PM][1394.603]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:15 PM][1394.603]Rate for product 31 is 3
+[12/6/2019 2:02:18 PM][1397.596]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:21 PM][1400.603]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:24 PM][1403.104]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:24 PM][1403.104]Rate for product 32 is 2
+[12/6/2019 2:02:27 PM][1406.096]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:30 PM][1409.101]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:31 PM][1410.81]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:32 PM][1410.81]Rate for product 33 is 4
+[12/6/2019 2:02:34 PM][1413.806]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:37 PM][1416.809]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:39 PM][1417.847]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:39 PM][1417.847]Rate for product 34 is 2
+[12/6/2019 2:02:42 PM][1420.844]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:45 PM][1423.85]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:46 PM][1425.805]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:46 PM][1425.805]Rate for product 35 is 4
+[12/6/2019 2:02:49 PM][1428.797]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:52 PM][1431.801]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:54 PM][1433.676]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:02:54 PM][1433.676]Rate for product 36 is 3
+[12/6/2019 2:02:57 PM][1436.673]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:00 PM][1439.677]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:02 PM][1441.127]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:02 PM][1441.127]Rate for product 37 is 2
+[12/6/2019 2:03:05 PM][1444.122]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:08 PM][1447.126]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:10 PM][1448.815]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:10 PM][1448.815]Rate for product 38 is 5
+[12/6/2019 2:03:12 PM][1451.809]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:16 PM][1454.813]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:17 PM][1456.397]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:17 PM][1456.397]Rate for product 39 is 4
+[12/6/2019 2:03:20 PM][1459.393]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:23 PM][1462.398]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:26 PM][1465.2]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:26 PM][1465.2]Rate for product 40 is 3
+[12/6/2019 2:03:29 PM][1468.199]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:32 PM][1471.2]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:34 PM][1472.966]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:34 PM][1472.966]Rate for product 41 is 4
+[12/6/2019 2:03:37 PM][1475.956]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:40 PM][1478.961]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:41 PM][1480.26]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:41 PM][1480.26]Rate for product 42 is 3
+[12/6/2019 2:03:44 PM][1483.251]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:47 PM][1486.255]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:50 PM][1489.395]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:50 PM][1489.395]Rate for product 43 is 2
+[12/6/2019 2:03:53 PM][1492.391]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:56 PM][1495.393]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:58 PM][1497.571]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:03:58 PM][1497.571]Rate for product 44 is 3
+[12/6/2019 2:04:01 PM][1500.565]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:04 PM][1503.569]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:07 PM][1506.396]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:07 PM][1506.396]Rate for product 45 is 4
+[12/6/2019 2:04:10 PM][1509.392]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:13 PM][1512.395]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:15 PM][1514.775]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:15 PM][1514.775]Rate for product 46 is 3
+[12/6/2019 2:04:18 PM][1517.767]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:21 PM][1520.775]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:24 PM][1522.852]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:24 PM][1522.852]Rate for product 47 is 3
+[12/6/2019 2:04:27 PM][1525.845]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:30 PM][1528.849]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:31 PM][1530.087]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:31 PM][1530.087]Rate for product 48 is 4
+[12/6/2019 2:04:34 PM][1533.085]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:37 PM][1536.09]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:39 PM][1538.236]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:39 PM][1538.236]Rate for product 49 is 3
+[12/6/2019 2:04:42 PM][1541.229]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:45 PM][1544.23]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:46 PM][1545.492]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:46 PM][1545.492]Rate for product 50 is 4
+[12/6/2019 2:04:49 PM][1548.487]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:52 PM][1551.492]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:54 PM][1553.781]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:04:54 PM][1553.781]Rate for product 51 is 3
+[12/6/2019 2:04:57 PM][1556.777]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:00 PM][1559.785]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:03 PM][1562.483]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:03 PM][1562.483]Rate for product 52 is 2
+[12/6/2019 2:05:06 PM][1565.476]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:09 PM][1568.483]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:11 PM][1570.014]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:11 PM][1570.014]Rate for product 53 is 3
+[12/6/2019 2:05:14 PM][1573.005]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:17 PM][1576.01]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:18 PM][1577.554]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:18 PM][1577.554]Rate for product 54 is 4
+[12/6/2019 2:05:21 PM][1580.552]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:24 PM][1583.562]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:26 PM][1584.923]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:26 PM][1584.923]Rate for product 55 is 3
+[12/6/2019 2:05:29 PM][1587.917]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:32 PM][1590.922]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:34 PM][1593.112]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:34 PM][1593.112]Rate for product 56 is 2
+[12/6/2019 2:05:37 PM][1596.106]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:40 PM][1599.114]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:41 PM][1600.607]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:41 PM][1600.607]Rate for product 57 is 4
+[12/6/2019 2:05:44 PM][1603.604]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:47 PM][1606.606]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:49 PM][1607.86]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:49 PM][1607.86]Rate for product 58 is 3
+[12/6/2019 2:05:52 PM][1610.85]View: Description; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:55 PM][1613.858]View: Distribution; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:58 PM][1617.298]View: Rating; Condition: SomeDisplay; Finished
+[12/6/2019 2:05:58 PM][1617.298]Rate for product 59 is 4
+[12/6/2019 2:06:01 PM][1620.289]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:06:04 PM][1622.884]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:06:04 PM][1622.884]Rate for product 60 is 5
+[12/6/2019 2:06:07 PM][1625.876]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:06:08 PM][1627.598]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:06:08 PM][1627.598]Rate for product 61 is 3
+[12/6/2019 2:06:11 PM][1630.588]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:06:14 PM][1632.899]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:06:14 PM][1632.899]Rate for product 62 is 5
+[12/6/2019 2:06:17 PM][1635.897]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:06:18 PM][1637.524]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:06:18 PM][1637.524]Rate for product 63 is 3
+[12/6/2019 2:06:21 PM][1640.519]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:06:23 PM][1641.972]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:06:23 PM][1641.972]Rate for product 64 is 2
+[12/6/2019 2:06:26 PM][1644.968]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:06:27 PM][1646.474]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:06:27 PM][1646.474]Rate for product 65 is 4
+[12/6/2019 2:06:30 PM][1649.465]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:06:33 PM][1652.749]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:06:33 PM][1652.749]Rate for product 66 is 4
+[12/6/2019 2:06:36 PM][1655.743]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:06:38 PM][1657.353]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:06:38 PM][1657.353]Rate for product 67 is 2
+[12/6/2019 2:06:41 PM][1660.345]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:06:43 PM][1661.979]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:06:43 PM][1661.979]Rate for product 68 is 4
+[12/6/2019 2:06:46 PM][1664.971]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:06:47 PM][1666.492]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:06:47 PM][1666.492]Rate for product 69 is 4
+[12/6/2019 2:06:50 PM][1669.484]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:06:52 PM][1671.051]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:06:52 PM][1671.051]Rate for product 70 is 3
+[12/6/2019 2:06:55 PM][1674.042]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:06:56 PM][1675.147]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:06:56 PM][1675.147]Rate for product 71 is 2
+[12/6/2019 2:06:59 PM][1678.141]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:07:00 PM][1679.302]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:07:00 PM][1679.302]Rate for product 72 is 4
+[12/6/2019 2:07:03 PM][1682.297]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:07:04 PM][1683.48]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:07:04 PM][1683.48]Rate for product 73 is 3
+[12/6/2019 2:07:07 PM][1686.474]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:07:09 PM][1688.741]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:07:09 PM][1688.741]Rate for product 74 is 5
+[12/6/2019 2:07:12 PM][1691.74]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:07:15 PM][1694.631]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:07:15 PM][1694.631]Rate for product 75 is 2
+[12/6/2019 2:07:18 PM][1697.621]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:07:22 PM][1701.032]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:07:22 PM][1701.032]Rate for product 76 is 4
+[12/6/2019 2:07:25 PM][1704.023]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:07:27 PM][1705.898]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:07:27 PM][1705.898]Rate for product 77 is 3
+[12/6/2019 2:07:30 PM][1708.894]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:07:33 PM][1712.558]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:07:33 PM][1712.558]Rate for product 78 is 4
+[12/6/2019 2:07:36 PM][1715.55]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:07:38 PM][1716.871]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:07:38 PM][1716.871]Rate for product 79 is 4
+[12/6/2019 2:07:41 PM][1719.862]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:07:42 PM][1721.38]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:07:42 PM][1721.38]Rate for product 80 is 4
+[12/6/2019 2:07:45 PM][1724.376]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:07:46 PM][1725.362]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:07:46 PM][1725.362]Rate for product 81 is 2
+[12/6/2019 2:07:49 PM][1728.354]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:07:51 PM][1730.686]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:07:51 PM][1730.686]Rate for product 82 is 4
+[12/6/2019 2:07:54 PM][1733.683]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:07:56 PM][1735.512]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:07:56 PM][1735.512]Rate for product 83 is 4
+[12/6/2019 2:07:59 PM][1738.508]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:08:01 PM][1740.61]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:08:01 PM][1740.61]Rate for product 84 is 3
+[12/6/2019 2:08:04 PM][1743.602]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:08:07 PM][1746.481]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:08:07 PM][1746.481]Rate for product 85 is 3
+[12/6/2019 2:08:10 PM][1749.471]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:08:11 PM][1750.517]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:08:11 PM][1750.517]Rate for product 86 is 5
+[12/6/2019 2:08:14 PM][1753.509]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:08:16 PM][1755.028]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:08:16 PM][1755.028]Rate for product 87 is 5
+[12/6/2019 2:08:19 PM][1758.022]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:08:20 PM][1759.26]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:08:20 PM][1759.26]Rate for product 88 is 3
+[12/6/2019 2:08:23 PM][1762.254]View: Description; Condition: NoDisplay; Finished
+[12/6/2019 2:08:24 PM][1763.383]View: Rating; Condition: NoDisplay; Finished
+[12/6/2019 2:08:24 PM][1763.383]Rate for product 89 is 4
+[12/6/2019 2:08:24 PM][1763.383]End Phase 2
+-----------------------------------------------------
